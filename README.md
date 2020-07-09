@@ -9,8 +9,8 @@
 
 ## 演示视频
 
-B站指路：https://www.bilibili.com/video/BV1Cf4y1y7KT/
-Zhihu: https://www.zhihu.com/zvideo/1258031695091601408
+* B站指路：https://www.bilibili.com/video/BV1Cf4y1y7KT/
+* Zhihu: https://www.zhihu.com/zvideo/1258031695091601408
 
 ## 项目文件说明
 
